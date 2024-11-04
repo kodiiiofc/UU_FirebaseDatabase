@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Контакты в Firebase</string>
+    <string name="already_has_account_tv">Уже есть аккаунт.</string>
+    <string name="email_et">email</string>
+    <string name="password_et">пароль</string>
+    <string name="confirm_password_et">подтвердите пароль</string>
+    <string name="sign_up_btn">Зарегистрироваться</string>
+    <string name="login_btn">Войти</string>
+    <string name="has_not_account_tv">Еще нет аккаунта?</string>
+    <string name="exit_menu">Выйти</string>
+    <string name="insert_contact_btn">Добавить контакт</string>
+    <string name="name_et">Имя контакта</string>
+    <string name="phone_et">Номер телефона</string>
+</resources>
